@@ -1,0 +1,11 @@
+.select-style {
+    border: 1px solid #ccc;
+    width: 300px;
+    border-radius: 2px;
+}
+
+.select-style select {
+    padding: 5px 8px;
+    width: 130%;
+}
+
